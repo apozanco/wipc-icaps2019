@@ -1,2 +1,5 @@
 # wipc-icaps2019
-Data from the benchmarks of IPC 2014 and IPC 2018
+This is the data we used in the paper "Insights from the 2018 IPC Benchmarks", published in the Workshop on the International Planning Competition (WIPC) at ICAPS 2019 (Berkeley, USA).
+
+
+
